@@ -8,3 +8,6 @@ Pure HTML and CSS
 ## Standout Characteristics
 • Achieved 95% responsiveness through meticulous coding and media query implementation, ensuring a seamless user experience on different devices.  
 • Employed a lightweight tech stack to enhance flexibility and creativity in designing unique event experiences.
+
+## Live Link
+https://gayathri-priyanka-ramesh.github.io/Kabi-Events/
